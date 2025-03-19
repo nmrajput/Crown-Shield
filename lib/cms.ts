@@ -391,7 +391,7 @@ const cms: CMS = {
           },
           {
             icon: "Home",
-            title: "Domestic Help",
+            title: "housekeeping",
             description:
               "Reliable and trustworthy domestic staff including maids, cooks, and caretakers to maintain your home with care.",
             link: "/services#domestic",
